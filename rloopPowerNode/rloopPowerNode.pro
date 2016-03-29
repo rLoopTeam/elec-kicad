@@ -1,4 +1,4 @@
-update=3/29/2016 2:32:39 AM
+update=Tuesday, March 29, 2016 'PMt' 09:23:58 PM
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,8 +23,6 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[general]
-version=1
 [eeschema]
 version=1
 LibDir=../../elec-kicad
@@ -59,3 +57,5 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=rloop
+[general]
+version=1
