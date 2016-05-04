@@ -26,6 +26,11 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP MAX3051
+D CAN bus transceiver, +3V3 , 1Mbps
+K CAN bus transceiver MAX3051
+$ENDCMP
+#
 $CMP Regulator
 D Linear Regulator +5V
 K POWER REGUL
