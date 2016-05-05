@@ -20,6 +20,10 @@ $CMP -BATT
 K POWER, PWR
 $ENDCMP
 #
+$CMP AMC1100
+D Isolated Differential Amp
+$ENDCMP
+#
 $CMP DS2482-100
 D I2C to 1-Wire Bridge
 $ENDCMP
