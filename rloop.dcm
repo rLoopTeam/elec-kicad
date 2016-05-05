@@ -20,6 +20,10 @@ $CMP -BATT
 K POWER, PWR
 $ENDCMP
 #
+$CMP DS2482-100
+D I2C to 1-Wire Bridge
+$ENDCMP
+#
 $CMP IsolatedRegulator
 D Linear Regulator +5V
 K POWER REGUL
