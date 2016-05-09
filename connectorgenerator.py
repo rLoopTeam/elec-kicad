@@ -98,9 +98,7 @@ def go(numPins=2, pinPitch=1, strPrefix="", strSuffix="", isSmd=False, pinWidth=
                 x = (-xOfFirstPin) - b.x
             else:
                 x = (-xOfFirstPin) + b.x
-        ln = "(pad M" + str(mcnt) + " "
-        mcnt += 1
-        ln += "thru_hole circle "
+        ln = "(pad \"\" np_thru_hole circle "
         ln += "(at %4.8f %4.8f) " % (x, b.y)
         if b.y > yMax:
             yMax = b.y
@@ -188,5 +186,5 @@ class BossPoint:
         self.x = x
 
 if __name__ == '__main__':
-    #makeJst()
+    makeJst()
     makeTe()

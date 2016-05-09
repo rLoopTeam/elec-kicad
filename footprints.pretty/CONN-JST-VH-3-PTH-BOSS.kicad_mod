@@ -8,7 +8,7 @@
   (pad 1 thru_hole rect (at -3.96000000 0.00000000) (size 3.00000000 3.00000000) (drill 1.70000000) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole circle (at 0.00000000 0.00000000) (size 3.00000000 3.00000000) (drill 1.70000000) (layers *.Cu *.Mask F.SilkS))
   (pad 3 thru_hole circle (at 3.96000000 0.00000000) (size 3.00000000 3.00000000) (drill 1.70000000) (layers *.Cu *.Mask F.SilkS))
-(pad M1 thru_hole circle (at -5.46000000 -3.50000000) (size 1.40000000 1.40000000) (drill 1.40000000) (layers *.Cu *.Mask F.SilkS))
+(pad "" np_thru_hole circle (at -5.46000000 -3.50000000) (size 1.40000000 1.40000000) (drill 1.40000000) (layers *.Cu *.Mask F.SilkS))
   (fp_line (start -5.91000000 -2.00000000) (end 5.91000000 -2.00000000) (layer F.SilkS) (width 0.17))
   (fp_line (start -5.91000000 -3.70000000) (end 5.91000000 -3.70000000) (layer F.SilkS) (width 0.17))
   (fp_line (start -5.91000000 4.80000000) (end 5.91000000 4.80000000) (layer F.SilkS) (width 0.17))
