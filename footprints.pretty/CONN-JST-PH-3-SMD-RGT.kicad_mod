@@ -12,6 +12,6 @@
   (pad M2 smd rect (at -4.40000000 1.50000000) (size 1.70000000 3.50000000) (layers F.Cu F.Paste F.Mask))
   (fp_line (start -3.90000000 7.60000000) (end 3.90000000 7.60000000) (layer F.SilkS) (width 0.17))
   (fp_line (start -3.90000000 0.00000000) (end 3.90000000 0.00000000) (layer F.SilkS) (width 0.17))
-  (fp_line (start -3.90000000 0.00000000) (end -3.90000000 7.60000000) (layer F.SilkS) (width 0.17))
-  (fp_line (start 3.90000000 0.00000000) (end 3.90000000 7.60000000) (layer F.SilkS) (width 0.17))
+  (fp_line (start -3.90000000 7.60000000) (end -3.90000000 0.00000000) (layer F.SilkS) (width 0.17))
+  (fp_line (start 3.90000000 7.60000000) (end 3.90000000 0.00000000) (layer F.SilkS) (width 0.17))
 )
