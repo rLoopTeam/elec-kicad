@@ -24,17 +24,9 @@ $CMP AMC1100
 D Isolated Differential Amp
 $ENDCMP
 #
-$CMP AMPMODU-02X05
-D Connector 02x05
-$ENDCMP
-#
 $CMP CPC1718
 D MOSFET Photorelay 1-Form-A, Voff 100V, Ion 6A
 K Photorelay
-$ENDCMP
-#
-$CMP D
-D Diode
 $ENDCMP
 #
 $CMP DS2482-100
@@ -45,10 +37,6 @@ $CMP IsolatedRegulator
 D Linear Regulator +5V
 K POWER REGUL
 F regulator\lm78xx.pdf
-$ENDCMP
-#
-$CMP Led_Small
-D Led
 $ENDCMP
 #
 $CMP Regulator
