@@ -32,6 +32,14 @@ $CMP AMC1100
 D Isolated Differential Amp
 $ENDCMP
 #
+$CMP CONN_01X02_2XMNT
+D Connector 01x02
+$ENDCMP
+#
+$CMP CONN_01X04-2XMNT
+D Connector 01x04
+$ENDCMP
+#
 $CMP CPC1718
 D MOSFET Photorelay 1-Form-A, Voff 100V, Ion 6A
 K Photorelay
