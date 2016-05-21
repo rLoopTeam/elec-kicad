@@ -67,6 +67,14 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP MLX90614
+D Digital IR Thermopile
+$ENDCMP
+#
+$CMP P82B715TD
+D I2C Bus Extender (12V)
+$ENDCMP
+#
 $CMP Regulator
 D Linear Regulator +5V
 K POWER REGUL
