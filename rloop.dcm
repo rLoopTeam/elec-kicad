@@ -67,12 +67,20 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP MAX14850
+D Digital Isolator
+$ENDCMP
+#
 $CMP MLX90614
 D Digital IR Thermopile
 $ENDCMP
 #
 $CMP P82B715TD
 D I2C Bus Extender (12V)
+$ENDCMP
+#
+$CMP RJ45-SHIELDED
+D RJ45 connector 8 pins with Shielding Pins
 $ENDCMP
 #
 $CMP Regulator
