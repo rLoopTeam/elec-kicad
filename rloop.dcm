@@ -71,12 +71,44 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP MAX13432E
+D RS-485 Transceivers with Low-Voltage Logic Interface
+$ENDCMP
+#
+$CMP MAX14778
+D Dual ±25V, 4:1 Analog Multiplexer
+$ENDCMP
+#
 $CMP MAX14850
 D Digital Isolator
 $ENDCMP
 #
+$CMP MAX3110E
+D SPI UART with RS232
+$ENDCMP
+#
+$CMP MAX3140
+D SPI UART with Integrated RS485/RS232
+$ENDCMP
+#
+$CMP MAX3232
+D 3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232
+$ENDCMP
+#
+$CMP MAX4948
+D Hex SPDT Data Switch
+$ENDCMP
+#
+$CMP MCP2562
+D CAN PHY
+$ENDCMP
+#
 $CMP MLX90614
 D Digital IR Thermopile
+$ENDCMP
+#
+$CMP MMA8451Q
+D 3 Axis, 12bit Accelerometer
 $ENDCMP
 #
 $CMP P82B715TD
