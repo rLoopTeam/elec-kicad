@@ -40,6 +40,10 @@ $CMP AMC1100
 D Isolated Differential Amp
 $ENDCMP
 #
+$CMP AMC7812
+D 12Bit Multichannel DAC and ADC
+$ENDCMP
+#
 $CMP CONN_01X02_2XMNT
 D Connector 01x02
 $ENDCMP
