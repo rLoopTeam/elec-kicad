@@ -134,4 +134,8 @@ $CMP WDT-5PIN-ACTIVELOW
 D Watchdog timer, active low, 5 pin SOT-23-5
 $ENDCMP
 #
+$CMP XTR117
+D 4-20mA Current Loop Transmitter
+$ENDCMP
+#
 #End Doc Library
