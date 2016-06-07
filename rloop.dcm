@@ -36,6 +36,10 @@ $CMP -BATT
 K POWER, PWR
 $ENDCMP
 #
+$CMP 74LVC1G32GW,125
+D Single 2-Input OR Gate
+$ENDCMP
+#
 $CMP AMC1100
 D Isolated Differential Amp
 $ENDCMP
