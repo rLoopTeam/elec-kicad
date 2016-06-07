@@ -115,6 +115,10 @@ $CMP P82B715TD
 D I2C Bus Extender (12V)
 $ENDCMP
 #
+$CMP RCV420JP
+D 4-20mA Current Loop Receiver
+$ENDCMP
+#
 $CMP RJ45-SHIELDED
 D RJ45 connector 8 pins with Shielding Pins
 $ENDCMP
