@@ -111,6 +111,10 @@ $CMP MMA8451Q
 D 3 Axis, 12bit Accelerometer
 $ENDCMP
 #
+$CMP NUD3124LT1G
+D Automotive Inductive Load Driver
+$ENDCMP
+#
 $CMP P82B715TD
 D I2C Bus Extender (12V)
 $ENDCMP
