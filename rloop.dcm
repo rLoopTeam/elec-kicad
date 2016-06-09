@@ -48,10 +48,6 @@ $CMP AMC7812
 D 12Bit Multichannel DAC and ADC
 $ENDCMP
 #
-$CMP C0603C104J5RAC7013
-D Capacitor, Ceramic Chip, 100nF (0.1uF), 50V, 5%, SMD 0603
-$ENDCMP
-#
 $CMP CONN_01X02_2XMNT
 D Connector 01x02
 $ENDCMP
@@ -70,6 +66,10 @@ K Photorelay
 $ENDCMP
 #
 $CMP C_100nF_50V
+D Capacitor, Ceramic Chip, 100nF (0.1uF), 50V, 5%, SMD 0603
+$ENDCMP
+#
+$CMP C_1uF_50V
 D Capacitor, Ceramic Chip, 100nF (0.1uF), 50V, 5%, SMD 0603
 $ENDCMP
 #
