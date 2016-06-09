@@ -115,7 +115,7 @@ $CMP MAX3232CDR
 D 3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232
 $ENDCMP
 #
-$CMP MAX4948
+$CMP MAX4948ETG+
 D Hex SPDT Data Switch
 $ENDCMP
 #
