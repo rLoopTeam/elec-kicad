@@ -36,6 +36,14 @@ $CMP -BATT
 K POWER, PWR
 $ENDCMP
 #
+$CMP 1.7K
+D Resistor, 1.7K, 1%, 0603
+$ENDCMP
+#
+$CMP 3.3K
+D Resistor, 3.3K, 1%, 0603
+$ENDCMP
+#
 $CMP 74LVC1G32GW,125
 D Single 2-Input OR Gate
 $ENDCMP
@@ -103,7 +111,7 @@ $CMP MAX3140
 D SPI UART with Integrated RS485/RS232
 $ENDCMP
 #
-$CMP MAX3232
+$CMP MAX3232CDR
 D 3.0V to 5.5V, Low-Power, up to 1Mbps, True RS-232
 $ENDCMP
 #
@@ -143,6 +151,10 @@ $CMP Regulator
 D Linear Regulator +5V
 K POWER REGUL
 F regulator\lm78xx.pdf
+$ENDCMP
+#
+$CMP SN74HCT157D
+D Quad 2-1 Mux
 $ENDCMP
 #
 $CMP Switch_3PST
