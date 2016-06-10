@@ -89,6 +89,10 @@ $CMP DS2482-100
 D I2C to 1-Wire Bridge
 $ENDCMP
 #
+$CMP DS8921AMX
+D RS422 Line Driver / Receiver Pair
+$ENDCMP
+#
 $CMP IsolatedRegulator
 D Linear Regulator +5V
 K POWER REGUL
