@@ -106,6 +106,10 @@ $CMP C_1uF_50V
 D Capacitor, Ceramic Chip, 100nF (0.1uF), 50V, 5%, SMD 0603
 $ENDCMP
 #
+$CMP C_22pF_50V
+D Capacitor, Ceramic Chip, 22pF, 50V, 5%, SMD 0603
+$ENDCMP
+#
 $CMP C_4u7_25V
 D Capacitor, Ceramic Chip, 4.7uF, 25V, 5%, SMD 0805
 $ENDCMP
@@ -140,6 +144,10 @@ $CMP MAX3110E
 D SPI UART with RS232
 $ENDCMP
 #
+$CMP MAX3111EEWI+G36
+D SPI UART with RS232
+$ENDCMP
+#
 $CMP MAX3140
 D SPI UART with Integrated RS485/RS232
 $ENDCMP
@@ -168,6 +176,11 @@ $CMP MMBT3904
 D 40V Vce, 0.2A Ic, NPN, Small Signal Transistor, SOT-23
 K MMBT3904 NPN Transistor
 F http://www.nxp.com/documents/data_sheet/MMBT3904.pdf
+$ENDCMP
+#
+$CMP MP018S
+D Crystal, 1.8432MHz, HC49
+K Quartz, Resonator, Ceramic, Filter
 $ENDCMP
 #
 $CMP NUD3124LT1G
