@@ -94,6 +94,10 @@ $CMP C_100nF_50V
 D Capacitor, Ceramic Chip, 100nF (0.1uF), 50V, 5%, SMD 0603
 $ENDCMP
 #
+$CMP C_10nF_50V
+D Capacitor, Ceramic Chip, 10nF (0.01uF), 50V, 5%, SMD 0603
+$ENDCMP
+#
 $CMP C_1uF_50V
 D Capacitor, Ceramic Chip, 100nF (0.1uF), 50V, 5%, SMD 0603
 $ENDCMP
