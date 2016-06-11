@@ -64,6 +64,10 @@ $CMP AMC7812BSPAP
 D 12Bit Multichannel DAC and ADC
 $ENDCMP
 #
+$CMP BAS16,215
+D Diode, Small Signal, 0.2A, 85V, SMD SOT-23
+$ENDCMP
+#
 $CMP BZX84C3V6LT1G
 D Zener Diode, 3.6V, SMD
 K DEV DIODE
