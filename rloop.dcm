@@ -36,6 +36,10 @@ $CMP -BATT
 K POWER, PWR
 $ENDCMP
 #
+$CMP 0R
+D Resistor, 0R, 0603
+$ENDCMP
+#
 $CMP 1.7K
 D Resistor, 1.7K, 1%, 0603
 $ENDCMP
@@ -100,6 +104,10 @@ $ENDCMP
 #
 $CMP C_1uF_50V
 D Capacitor, Ceramic Chip, 100nF (0.1uF), 50V, 5%, SMD 0603
+$ENDCMP
+#
+$CMP C_4u7_25V
+D Capacitor, Ceramic Chip, 4.7uF, 25V, 5%, SMD 0805
 $ENDCMP
 #
 $CMP DS2482-100
