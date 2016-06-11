@@ -183,6 +183,10 @@ D Double Pole Single Throw (DPST) Switch
 K switch
 $ENDCMP
 #
+$CMP TE_640456-8
+D Header, Friction Lock, Vertical, 1x8
+$ENDCMP
+#
 $CMP TQ2-5V
 D Relay, 1A, 5VDC, DPDT
 $ENDCMP
