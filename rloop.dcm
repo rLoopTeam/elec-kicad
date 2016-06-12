@@ -44,6 +44,10 @@ $CMP 1.7K
 D Resistor, 1.7K, 1%, 0603
 $ENDCMP
 #
+$CMP 100R
+D Resistor, 100R, 1%, 0603
+$ENDCMP
+#
 $CMP 10K
 D Resistor, 10K, 1%, 0603
 $ENDCMP
@@ -54,6 +58,10 @@ $ENDCMP
 #
 $CMP 3.3K
 D Resistor, 3.3K, 1%, 0603
+$ENDCMP
+#
+$CMP 4.7K
+D Resistor, 4.7K, 1%, 0603
 $ENDCMP
 #
 $CMP 74LVC1G32GW,125
