@@ -130,6 +130,10 @@ $CMP DS8921AMX
 D RS422 Line Driver / Receiver Pair
 $ENDCMP
 #
+$CMP ISO3082DWR
+D Isolated 5V RS485 Xcvr
+$ENDCMP
+#
 $CMP IsolatedRegulator
 D Linear Regulator +5V
 K POWER REGUL
