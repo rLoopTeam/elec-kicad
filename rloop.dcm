@@ -52,6 +52,10 @@ $CMP 10K
 D Resistor, 10K, 1%, 0603
 $ENDCMP
 #
+$CMP 190K
+D Resistor, 190K, 1%, 0603
+$ENDCMP
+#
 $CMP 2.2K
 D Resistor, 2.2K, 1%, 0603
 $ENDCMP
