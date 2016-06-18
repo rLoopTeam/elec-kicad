@@ -225,6 +225,10 @@ K POWER REGUL
 F regulator\lm78xx.pdf
 $ENDCMP
 #
+$CMP SN74HCT139DE4
+D IC, Dual 2:4 Demux
+$ENDCMP
+#
 $CMP SN74HCT157D
 D Quad 2-1 Mux
 $ENDCMP
